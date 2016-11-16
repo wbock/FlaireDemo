@@ -84,15 +84,19 @@ void draw() {
 
   switch(scene) {
   case 0:
+    // Clock/timer scene
     drawScene0();
     break;
   case 1:
+    // Map scene
     drawScene1();
     break;
   case 2:
+    // Music scene
     drawScene2();
     break;
   case 3:
+    // status overview scene
     drawScene3();
     break;
   default:
