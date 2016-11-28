@@ -30,9 +30,9 @@ Wallpaper scene3Wallpaper;
 
 
 void setup() {
-  // Replace with moto x resolution on final build
+  // Replace with phone resolution on final build
   //size(422, 750);
-  size(1080, 1920);
+  size(720, 1280);
 
   // Create UI-elements array
   widgets = new ArrayList<Widget>();
